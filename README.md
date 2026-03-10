@@ -57,9 +57,9 @@ Used to display submission history and counts
 
 ## Architecture
 
-The app follows a **clean and scalable architecture**:
+The app follows a clean and scalable architecture:
 
-lib
+ lib
  ├── app
  │   ├── routes
  │   ├── modules
@@ -73,30 +73,26 @@ lib
  │   ├── services
  │
  └── utils
-```
 
----
 
 ## Technologies Used
 
-* **Flutter (Latest Stable Version)**
-* **GetX** – State Management & Navigation
-* **GetStorage** – Local Storage
-* **Geolocator** – Latitude & Longitude
-* **Material UI**
+Flutter (Latest Stable Version)
+GetX – State Management & Navigation
+GetStorage** – Local Storage
+Geolocator – Latitude & Longitude
+Material UI
 
 ---
 
 ## Project Highlights
 
-* Clean GetX architecture
-* Offline-first data storage
-* Persistent login system
-* Simple and responsive UI
-* Modular code structure
-* Easily scalable project
-
----
+ Clean GetX architecture
+ Offline-first data storage
+ Persistent login system
+ Simple and responsive UI
+ Modular code structure
+ Easily scalable project
 
 ## Screens
 
